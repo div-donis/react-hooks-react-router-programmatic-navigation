@@ -12,3 +12,5 @@ function Home({ isLoggedIn }) {
 }
 
 export default Home;
+
+{/*submit*/}
